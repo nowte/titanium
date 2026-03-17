@@ -50,15 +50,12 @@ There you can exchange ideas, ask questions, and actively contribute to our proj
 
 ## CLI Tools
 
-- `test` ([source][source]) – A powerful Node.js module for interacting with the Discord API
+- `empty`
 
 
 
 ## Links
-
-- [Documentation][documentation]
-
-
+- `empty`
 
 ## Contributing
 
@@ -82,4 +79,3 @@ If something in the documentation is unclear, you run into issues, or just need 
 [source]: https://github.com/your-repo
 [documentation]: https://your-docs-link
 [contributing]: https://github.com/your-repo/blob/main/CONTRIBUTING.md
-[good-first-issue]: https://github.com/your-repo/labels/good%20first%20issue
