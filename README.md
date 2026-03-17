@@ -75,7 +75,7 @@ If something in the documentation is unclear, you run into issues, or just need 
 
 
 
-[discord]: https://discord.gg/your-discord-link
-[source]: https://github.com/your-repo
-[documentation]: https://your-docs-link
-[contributing]: https://github.com/your-repo/blob/main/CONTRIBUTING.md
+[discord]: 
+[source]: 
+[documentation]: 
+[contributing]: 
